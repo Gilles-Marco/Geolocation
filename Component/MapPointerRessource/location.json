@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Résidence les dolines Garbejaire",
+        "latitude": 43.623752,
+        "longitude": 7.049213,
+        "radius": 0.0015
+    },
+    {
+        "name":"MIAGE Sophia",
+        "latitude": 43.616616,
+        "longitude": 7.063620,
+        "radius": 0.0015
+    },
+    {
+        "name":"Casino Shop garbejaire",
+        "latitude": 43.623308,
+        "longitude": 7.046599,
+        "radius": 0.0015
+    }
+]
